@@ -1,4 +1,4 @@
-# SCM-G13
+# SCM
 Hello!!
 <br>
 I am Diksha.
